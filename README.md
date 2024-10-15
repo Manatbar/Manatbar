@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shaiq Manatbar
-- 👀 I’m interested in Software development ...
+- 👀 I’m interested in Full Stack Web development ...
 - 🌱 I’m currently Student of computer science. 
 - 📫 I'm here for improvement. 
 
