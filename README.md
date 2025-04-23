@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaiq Manatbar
 - 👀 I’m interested in Full Stack Web development ...
-- 🌱 I’m currently Student of computer science. 
+- 🌱 I’m currently a full stack web developer at Afghan Cosmos Group. 
 - 📫 I'm here for improvement. 
 
 <!---
